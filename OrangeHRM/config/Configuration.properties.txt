@@ -1,0 +1,1 @@
+reportConfigPath = C:\Users\ankollat\Desktop\work\OrangeHRM\config\extent-configs.xml
